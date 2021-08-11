@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OurNDPSongs</string>
+    <string name="name">Name</string>
+    <string name="hint_name">Enter name of Island</string>
+    <string name="description">Description</string>
+    <string name="hint_describe">Enter description</string>
+    <string name="squareKM">Square KM</string>
+    <string name="hint_squareKM">Enter square KM</string>
+    <string name="stars">Stars</string>
+    <string name="insert">Insert</string>
+    <string name="list">Show list</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="btnFilter">Show all songs with 5 stars</string>
+
+</resources>
